@@ -1,0 +1,51 @@
+body{
+	font-size: 16px;
+	background-color: #1b2780;
+	font-family:'oxygen';
+}
+/*header*/
+#header-nav {
+	background-color: #e0dd2f;
+	border-radius: 0;
+	border: 0;
+}
+
+#logo-img {
+ background: url('../image/logo.png') no-repeat;
+ width: 150px;
+ height: 150px;
+ margin: 10px 10px 10px 0;
+}
+
+ .brand{
+ 	font-family: oxygen;
+ 	margin-left: 10px;
+ 	padding: 0;
+ }
+
+ .brand h1 {
+ 	color: black;
+ 	text-shadow: 2px 2px 2px #222;
+ }
+
+ .brand a:hover,.navbar a:focus{
+    text-decoration: none;
+ }
+
+ #nav-item a:hover {
+ 	background: white;
+ }
+ 
+ #main-nav a{
+ 	font-weight: bold;
+ }
+
+ span.glyphicon {
+ 	color: red;
+ 	margin-right: 5px;
+ }
+ 
+ 
+ 
+ 	
+ 
